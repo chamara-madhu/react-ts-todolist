@@ -6,7 +6,7 @@
 npm install
 ```
 
-Create env from [.env.example](https://github.com/chamara-madhu/react-ts-todolist/blob/main/.env.example) and fill according to it needs
+Create .env.local from [.env.example](https://github.com/chamara-madhu/react-ts-todolist/blob/main/.env.example) and fill according to it needs
 
 ## Folder structure
 

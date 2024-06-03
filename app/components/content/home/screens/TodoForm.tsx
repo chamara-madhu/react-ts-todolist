@@ -86,7 +86,7 @@ const TodoForm = () => {
 
   return (
     <div className="border border-purple-200 p-7 rounded-xl w-full md:w-[35%]">
-      <h1 className="mb-4 text-xl font-bold">TODO task Submission</h1>
+      <h1 className="mb-4 text-xl font-bold">TODO Task Submission</h1>
       <form onSubmit={handleSubmit}>
         <div className="flex flex-col gap-7">
           <Input
